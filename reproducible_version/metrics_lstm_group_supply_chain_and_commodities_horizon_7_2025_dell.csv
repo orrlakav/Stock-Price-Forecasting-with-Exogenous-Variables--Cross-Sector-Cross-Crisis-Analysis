@@ -1,0 +1,2 @@
+model,exo_var,horizon,rmse,mae,mape
+best_model_fn,"['HG=F', 'CL=F', 'IYT']",7,7.717876334497382,5.874637962282021,4.980214237580868

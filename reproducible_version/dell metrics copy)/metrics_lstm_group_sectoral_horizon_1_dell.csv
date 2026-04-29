@@ -1,0 +1,2 @@
+model,exo_var,horizon,rmse,mae,mape
+best_model_fn,"['SMH', '^IXIC', 'XLK']",1,2.0875567747172137,1.576425242406117,4.0351973949066045

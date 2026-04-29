@@ -1,0 +1,2 @@
+model,exo_var,horizon,rmse,mae,mape
+best_model_fn,"['XLI', 'JETS', 'IYT', 'ITA']",7,14.363433446193383,11.754314645023715,5.208417383984294

@@ -1,0 +1,2 @@
+model,exo_var,horizon,rmse,mae,mape
+best_model_fn,"['SLX', 'JETS', '^TNX']",1,11.326750047174706,8.837678150805054,3.9989825744928478

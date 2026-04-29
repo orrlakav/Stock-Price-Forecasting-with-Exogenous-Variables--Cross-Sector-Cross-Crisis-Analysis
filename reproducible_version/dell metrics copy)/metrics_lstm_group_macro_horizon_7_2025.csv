@@ -1,0 +1,2 @@
+model,exo_var,horizon,rmse,mae,mape
+best_model_fn,"['^VIX', '^TNX']",7,11.308450410864012,9.3005617602477,4.455150026450866
