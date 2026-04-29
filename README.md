@@ -163,7 +163,6 @@ This highlights the importance of **model comparison, context awareness, and dis
 
 - `Notebooks/` – model development, experiments, and analysis  
 - `Data/` – processed datasets used for modelling  
-- `Experiment results and metrics/` – evaluation outputs and performance metrics  
 - `Report/` – final thesis document  
 
 - `reproducible_version/` – original project structure used during development.  
